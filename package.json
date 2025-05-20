@@ -20,7 +20,6 @@
     "url": "git@gitlab.mxbc-code.com:web/quick-mr.git"
   },
   "files": [
-    "./*"
+    "*"
   ]
 }
-
