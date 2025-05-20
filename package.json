@@ -1,5 +1,5 @@
 {
-  "name": "quick-mr",
+  "name": "quick-mr-zz",
   "version": "1.0.1",
   "description": "快速创建mr",
   "main": "src/index.js",
@@ -20,7 +20,7 @@
     "url": "git@gitlab.mxbc-code.com:web/quick-mr.git"
   },
   "files": [
-    "src"
+    "*"
   ]
 }
 
